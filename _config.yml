@@ -1,3 +1,20 @@
 theme: jekyll-theme-time-machine
 minimal_mistakes_skin: aqua
 title: ZZY's projects backup
+ name             : "Your Name"
+
+
+ 
+  avatar           : "/assets/images/profile_pic.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+
+
+ 
+  avatar           : "/assets/images/profile_pic.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+
+
+ 
+  bio              : "Master of Science in Quantitative Finance and Risk Management | University of Michigan"
+
+
+ 
+  location         : "Ann Arbor, Michigan"
